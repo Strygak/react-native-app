@@ -1,2 +1,2 @@
-# ReactNaniveApp
+# ReactNativeApp
 Demo React Native App
